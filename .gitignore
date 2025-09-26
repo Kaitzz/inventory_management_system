@@ -1,0 +1,18 @@
+# Compiled class files
+target/
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE settings
+.idea/
+*.iml
+
+# Maven dependency cache
+.mvn/
